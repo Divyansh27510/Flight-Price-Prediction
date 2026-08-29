@@ -99,7 +99,7 @@ The complete implementation, including data analysis, preprocessing, model train
 
 The project was developed and experimented with using Kaggle.
 
-**Kaggle Notebook:** Add your Kaggle notebook link here.
+**Kaggle Notebook:** (https://www.kaggle.com/code/divyanshsingh2874/24f3002874-ka1-notebook)
 
 ## 📚 Key Concepts
 
